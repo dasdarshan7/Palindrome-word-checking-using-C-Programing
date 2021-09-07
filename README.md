@@ -1,0 +1,3 @@
+# Palindrome-word-checking-using-C-Programing
+Palindrome word is a word which remains the same even if we write it in reverse order..
+Using this C programing code we can detect if a word is palindrome or not...
